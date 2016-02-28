@@ -12,3 +12,7 @@ Well, here it is! \ (•◡•) / Spotter, a Chrome extension that replaces all 
 Download the [latest release](https://github.com/HeliumSquid/spotter/archive/master.zip).
 
 `git clone https://github.com/HeliumSquid/spotter.git`
+
+## How do I load the extension?
+
+![How to load the extension.](https://developer.chrome.com/extensions/getstarted#unpacked)
