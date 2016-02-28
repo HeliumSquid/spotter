@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "Spotter",
+	"version": "0.1",
+	"description": "Replaces +1 comments on GitHub.",
+	"browser_action": {
+    "default_icon": "icon.png"
+  },
+	"content_scripts":
+	[
+		{
+			"matches": ["*://github.com/*/*/issues/*", "*://github.com/*/*/pull/*"],
+			"js": ["jquery.min.js", "walk.js"],
+			"run_at": "document_end"
+		}
+	]
+}
