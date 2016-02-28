@@ -1,5 +1,5 @@
 # Spotter
-> A Chrome extension that replaces +1 comments on GitHub.
+A Chrome extension that replaces +1 comments on GitHub.
 
 ![Spotter](icon.png)
 
@@ -9,4 +9,4 @@ Well, here it is! \ (•◡•) / Spotter, the all new Chrome extension that rep
 
 ## Install
 
-Download the [latest release](#).
+Download the [latest release](https://github.com/HeliumSquid/spotter/archive/master.zip).
