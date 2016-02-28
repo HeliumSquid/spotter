@@ -15,4 +15,4 @@ Download the [latest release](https://github.com/HeliumSquid/spotter/archive/mas
 
 ## How do I load the extension?
 
-![How to load the extension.](https://developer.chrome.com/extensions/getstarted#unpacked)
+[How to load the extension.](https://developer.chrome.com/extensions/getstarted#unpacked)
