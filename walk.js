@@ -3,7 +3,7 @@ function walk(node) {
     if (node.nodeType == 3) {
         // List of words to replace +1 with.
         var words = ["Butts", "HISSSSSSSSSSS", "What's my name again?", "HELP! Where am I?", "You can do that with Jake Weary!", "Git lost!",
-        "This is a secret message because the NSA is watching us.", "Why not Zoidberg? (V)_(@;;;;@)_(V)"];
+        "This is a secret message because the NSA is watching us.", "Why not Zoidberg? (V)_(@;;;;@)_(V)", "-1"];
         // Select a random word.
         var rand = words[Math.floor(Math.random() * words.length)];
         node.nodeValue = node.nodeValue.split('+1').join(rand);
